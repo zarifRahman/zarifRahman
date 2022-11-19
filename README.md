@@ -1,5 +1,14 @@
 ### Hi there 👋, Zarif Shahriar Rahman
 
+# Zarif Shahriar Rahman
+I'm Zarif from Bangladesh, and I work on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in CSS. 
+
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
+
 <!--
 **zarifRahman/zarifRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
