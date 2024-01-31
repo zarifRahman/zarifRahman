@@ -4,10 +4,10 @@
 I'm Zarif from Bangladesh, and I work on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in CSS. 
 
 ## Skills and Experience
+* 📟 Next JS
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-
 ## Example of Works
 [Let's visit my Portfolio](https://zarif-portfolio-two.vercel.app/)
 
