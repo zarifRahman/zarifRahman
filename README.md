@@ -7,7 +7,8 @@ I'm Zarif from Bangladesh, and I work on Design and Development. I really enjoy 
 * 📟 Next JS
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, JS
+* js Javascript
+* 💻 HTML, CSS
 ## Example of Works
 [Let's visit my Portfolio](https://zarif-portfolio-two.vercel.app/)
 
