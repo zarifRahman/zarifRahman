@@ -10,8 +10,9 @@ I'm Zarif from Bangladesh, and I work on Design and Development. I really enjoy 
 * 💻 JavaScript
 * 📜 GraphQL
 * ✨ HTML, CSS
+* 💻 TypeScript
 ## Example of Works
-[Let's visit my Portfolio](https://zarif-portfolio-two.vercel.app/)
+[Let's visit my Portfolio](https://zarif-portfolio.vercel.app/)
 
 
 <!--
