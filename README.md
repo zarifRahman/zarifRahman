@@ -1,7 +1,7 @@
 ### Hi there 👋, Zarif Shahriar Rahman
 
 # Zarif Shahriar Rahman
-I'm Zarif from 🇧🇩 , and I work on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in CSS. 
+I'm Zarif from 🇧🇩 ,With over 5 years of experience in Design and Development, I've had the privilege of working with both mobile and web platforms.<br> I'm passionate about exploring new frontiers in the tech world. <br> My core expertise lies in working with modern web technologies, particularly React, Next JS, TypeScript and React Native. 
 
 Let's learn something new ⚡ [Visit my Blog](https://zarif-dev-diaries.vercel.app/) 
 
