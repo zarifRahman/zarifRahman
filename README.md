@@ -18,7 +18,7 @@ Let's learn something new ⚡ [Visit my Blog](https://zarif-dev-diaries.vercel.a
 
 👯 I'm always open to collaborating on exciting projects and ideas. Let's connect and create something amazing together!
 Feel free to tweak it further to better match your style and preferences!<br>
-📫 How to reach me: Google Mail (zarif.shahriar.rahman@gmail.com)
+📫 How to reach me: zarif.shahriar.rahman@gmail.com
 
 
 <!--
