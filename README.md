@@ -3,7 +3,6 @@
 # Zarif Shahriar Rahman
 I'm Zarif from Bangladesh, and I work on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in CSS. 
 
-## Visit My Blog
 [Let's visit my Blog](https://zarif-dev-diaries.vercel.app/)
 
 ## Skills and Experience
