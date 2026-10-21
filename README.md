@@ -16,6 +16,8 @@ Let's learn something new ⚡ [Visit my Blog](https://zarif-dev-diaries.vercel.a
 ## Example of Works
 [Let's visit my Portfolio](https://zarif-portfolio.vercel.app/)
 
+🎮 **[DX-Ball](https://dx-ball-5luouyi03-zarifs-projects-03f15b7a.vercel.app/)** — a fullscreen brick-breaker game built with Next.js + Canvas 2D ([source](https://github.com/zarifRahman/dx-ball))
+
 👯 I'm always open to collaborating on exciting projects and ideas. Let's connect and create something amazing together!<br>
 📫 How to reach me: zarif.shahriar.rahman@gmail.com
 
