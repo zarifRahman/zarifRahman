@@ -31,7 +31,7 @@ const zarif = {
 ```
 
 - 🔭 Building modern web & mobile apps with **React, Next.js, TypeScript & React Native**
-- ✍️ I write at my blog → **[Zarif Dev Diaries](https://zarif-dev-diaries.vercel.app/)**
+- ✍️ I write at my blog → **[Zarif Dev Diaries](https://zarif-personal-blog-8lnqyrobh-zarifs-projects-03f15b7a.vercel.app//)**
 - 🎮 Latest fun build → **[DX-Ball](https://dx-ball-5luouyi03-zarifs-projects-03f15b7a.vercel.app/)**, a fullscreen brick-breaker in Next.js + Canvas 2D ([source](https://github.com/zarifRahman/dx-ball))
 - 👯 Always open to collaborating on exciting projects and ideas
 - 📫 Reach me at **zarif.shahriar.rahman@gmail.com**
